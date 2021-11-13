@@ -43,7 +43,8 @@ nav ul {
     padding: 0px 10px;
     text-align: center;
     display: flex;
-}
+}ul.socialsico a img {width: 30px; height: 30px;}
+
 nav ul li a {
     color: #f4b183;
     text-decoration: none;
